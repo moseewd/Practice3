@@ -1,0 +1,7 @@
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\bin\Debug\Практика задача 3.exe.config
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\bin\Debug\Практика задача 3.exe
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\bin\Debug\Практика задача 3.pdb
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\obj\Debug\Практика задача 3.csprojResolveAssemblyReference.cache
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\obj\Debug\Практика задача 3.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\obj\Debug\Практика задача 3.exe
+C:\Users\Данила\source\repos\Практика задача 3\Практика задача 3\obj\Debug\Практика задача 3.pdb
